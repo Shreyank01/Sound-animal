@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(194, 194, 194);
+}
+
+.header_div {
+    background-color:rgb(146, 146, 146);
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header_div h3 {
+    font-size: 17px;
+    font-family:Arial;
+    color:rgb(255, 255, 255);
+    font-weight: 1000;
+    letter-spacing:2px;
+}
+
+.main_div button {
+    font-family: monospace;
+    font-weight: bold;
+    color:white;
+    margin-top: 20px;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color:rgb(24, 24, 24);
+    bottom:0px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    line-height:3;
+    text-shadow: 5px 5px 5px rgb(58, 58, 58);
+    font-size:20px;
+    font-weight:bold;
+
+}
+
+
